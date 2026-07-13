@@ -1,0 +1,121 @@
+WareID,Ware,ObjectTypeID,BeginDate,EndDate,CeramicMaterialID,id,Added,Source
+130,North Devon Slipware,4,1600,1730,8,130,NA,DAACS
+16,Colonoware,4,NA,NA,8,16,NA,DAACS
+96,"Refined Stoneware, unidentifiable",4,NA,NA,3,96,NA,DAACS
+1906823,Huveaune,4,NA,NA,8,1906823,NA,DAACS
+131,Dutch Coarse Earthenware,4,NA,NA,NA,NA,NA,DAACS
+127,"Porcelain, American Hard Paste",4,1820,2000,2,127,NA,DAACS
+128,"Porcelain, English Hard Paste",4,1743,2000,NA,128,NA,DAACS
+1,"Coarse Earthenware, unidentified",4,NA,NA,8,1,NA,DAACS
+82,"Refined Earthenware, unidentifiable",4,NA,NA,1,82,NA,DAACS
+101,Spanish Coarse Earthenware,4,NA,NA,8,101,NA,DAACS
+90,"Refined Earthenware, modern",4,NA,NA,1,90,NA,DAACS
+92,"Stoneware, unidentifiable",4,NA,NA,3,92,NA,DAACS
+56,Burslem,4,1700,1725,3,56,NA,DAACS
+115,Bristol Glaze Stoneware,4,NA,NA,3,115,NA,DAACS
+45,"Porcelain, unidentifiable",4,NA,NA,2,45,NA,DAACS
+103,"Caribbean Coarse Earthenware, hand built",4,NA,NA,8,103,NA,DAACS
+116,"Caribbean Coarse Earthenware, wheel thrown",4,NA,NA,8,116,NA,DAACS
+117,"Caribbean Coarse Earthenware, unid.",4,NA,NA,8,117,NA,DAACS
+69,Unidentifiable,4,NA,NA,7,69,NA,DAACS
+60,Jasperware Type,4,1774,2000,3,60,NA,DAACS
+124,Mexican Coarse Earthenware,4,NA,NA,8,124,NA,DAACS
+121,Vallauris,4,NA,NA,8,121,NA,DAACS
+122,Biot,4,NA,NA,8,122,NA,DAACS
+97,"Agate, refined (Whieldon-type)",4,1740,1775,1,97,NA,DAACS
+52,American Stoneware,4,1750,1920,3,52,NA,DAACS
+33,Bennington/Rockingham,4,1830,1900,1,33,NA,DAACS
+61,Black Basalt,4,1750,1820,3,61,NA,DAACS
+53,British Stoneware,4,1671,1800,3,53,NA,DAACS
+125,Majolica,4,NA,NA,1,125,NA,DAACS
+88,Canary Ware,4,1780,1835,1,88,NA,DAACS
+99,Cauliflower ware,4,1760,1780,1,99,NA,DAACS
+5,Buckley-type,4,1720,1775,8,5,NA,DAACS
+23,Creamware,4,1762,1820,1,23,NA,DAACS
+59,Westerwald/Rhenish,4,1650,1775,3,59,NA,DAACS
+106,"Creamware, Carolina",4,1765,1775,1,106,NA,DAACS
+36,"Delftware, Dutch/British",4,1600,1802,1,36,NA,DAACS
+35,Faience,4,1700,1800,1,35,NA,DAACS
+34,Wedgwood Green,4,1759,1775,1,34,NA,DAACS
+65,Frechen Brown,4,1600,1800,3,65,NA,DAACS
+112,French Coarse Earthenware,4,1600,1900,8,112,NA,DAACS
+94,German Stoneware,4,1620,1775,3,94,NA,DAACS
+6,Iberian Ware,4,1600,1780,8,6,NA,DAACS
+98,"Red Agate, coarse",4,1750,1800,8,98,NA,DAACS
+37,"Tin-Enameled, unidentified",4,1600,1802,1,37,NA,DAACS
+22,Staffordshire Mottled Glaze,4,1680,1780,8,22,NA,DAACS
+57,Staffordshire Brown Stoneware,4,1700,1800,3,57,NA,DAACS
+15,"Slipware, North Midlands/Staffordshire",4,1670,1795,8,15,NA,DAACS
+14,"Slipware, North Italian",4,1610,1675,8,14,NA,DAACS
+93,Slip Dip,4,1715,1775,3,93,NA,DAACS
+62,Rosso Antico,4,1690,1775,3,62,NA,DAACS
+113,"Redware, refined",4,1780,1900,1,113,NA,DAACS
+4,Redware,4,1700,1900,8,4,NA,DAACS
+51,Porcellaneous/Hard Paste,4,1820,2000,2,51,NA,DAACS
+18,Whieldon-type Ware,4,1740,1775,1,18,NA,DAACS
+63,White Salt Glaze,4,1720,1805,3,63,NA,DAACS
+110,Post-Medieval London-area Redware,4,1600,1800,8,110,NA,DAACS
+50,"Porcelain, Japanese",4,1870,2000,2,50,NA,DAACS
+48,"Porcelain, English Soft Paste",4,1745,1795,2,48,NA,DAACS
+47,"Porcelain, English Bone China",4,1794,2000,2,47,NA,DAACS
+46,"Porcelain, Chinese",4,1660,1860,2,46,NA,DAACS
+24,Pearlware,4,1775,1830,1,24,NA,DAACS
+2,"Red Agate, refined",4,1740,1775,1,2,NA,DAACS
+58,Nottingham,4,1683,1810,3,58,NA,DAACS
+11,North Devon Plain,4,1600,1710,8,11,NA,DAACS
+87,North Devon Gravel Tempered,4,1600,1775,8,87,NA,DAACS
+86,Native American,4,NA,NA,8,86,NA,DAACS
+31,Astbury Type,4,1725,1775,1,31,NA,DAACS
+95,Derbyshire,4,1750,1800,8,95,NA,DAACS
+32,Jackfield Type,4,1740,1790,1,32,NA,DAACS
+89,Turner Type,4,1785,1825,1,89,NA,DAACS
+109,Shaw Stoneware,4,1733,1750,3,109,NA,DAACS
+114,Surrey-Hampshire Border ware,4,1610,1650,8,114,NA,DAACS
+118,Albisola,4,NA,NA,8,118,NA,DAACS
+120,Saintonge,4,NA,NA,8,120,NA,DAACS
+105,"Porcelain, French Hard Paste",4,1750,2000,2,105,NA,DAACS
+54,British Brown/Fulham Type,4,1671,1775,3,54,NA,DAACS
+30,Yellow Ware,4,1830,1940,1,30,NA,DAACS
+25,Whiteware,4,1820,2000,1,25,NA,DAACS
+26,Ironstone/White Granite,4,1840,2000,1,26,NA,DAACS
+132,Not Applicable,1,NA,NA,NA,NA,NA,DAACS
+133,Not Applicable,2,NA,NA,NA,NA,NA,DAACS
+134,Not Applicable,3,NA,NA,NA,NA,NA,DAACS
+135,Not Applicable,5,NA,NA,NA,NA,NA,DAACS
+136,Not Applicable,6,NA,NA,NA,NA,NA,DAACS
+137,Not Applicable,7,NA,NA,NA,NA,NA,DAACS
+138,Not Applicable,8,NA,NA,NA,NA,NA,DAACS
+139,Not Applicable,9,NA,NA,NA,NA,NA,DAACS
+140,Not Applicable,10,NA,NA,NA,NA,NA,DAACS
+141,Ligurian Buffware,4,NA,NA,8,141,NA,DAACS
+,Abo Polychrome,,1650,1750,,,TinEnamelType,FLMNH
+,Aucilla Polychrome,,1650,1700,,,TinEnamelType,FLMNH
+,Bizcocho,,1500,1550,,,TinEnamelType,FLMNH
+,Castillo Polychrome,,1680,1710,,,TinEnamelType,FLMNH
+,Columbia Plain,,1490,1650,,,TinEnamelType,FLMNH
+,Fig Springs Polychrome,,1540,1650,,,TinEnamelType,FLMNH
+,Huejotzingo Blue-on-White,,1700,1850,,,TinEnamelType,FLMNH
+,Ichetucknee Blue-on-White,,1600,1650,,,TinEnamelType,FLMNH
+,"Majolica, unidentifiable",,NA,NA,,,TinEnamelType,FLMNH
+,Mexico City Blue-on-Cream,,1540,1650,,,TinEnamelType,FLMNH
+,Mexico City Green-on-Cream,,1540,1775,,,TinEnamelType,FLMNH
+,Mexico City White,,1540,1650,,,TinEnamelType,FLMNH
+,Puebla Blue-on-White,,1675,1800,,,TinEnamelType,FLMNH
+,Puebla Polychrome,,1650,1725,,,TinEnamelType,FLMNH
+,Pueblo White,,1650,1800,,,TinEnamelType,FLMNH
+,San Agustin Blue-on-White,,1700,1750,,,TinEnamelType,FLMNH
+,San Luis Blue-on-White,,1550,1650,,,TinEnamelType,FLMNH
+,San Luis Polychrome,,1650,1750,,,TinEnamelType,FLMNH
+,Santo Domingo Blue-on-White,,1550,1630,,,TinEnamelType,FLMNH
+,Sevilla Blue-on-Blue,,1550,1630,,,TinEnamelType,FLMNH
+,Yayal Blue-on-White,,1490,1625,,,TinEnamelType,FLMNH
+,Caparra Blue,,1492,1600,,,TinEnamelType,FLMNH
+,Mt. Royal Polychrome,,1650,1685,,,TinEnamelType,FLMNH
+,Aranama Polychrome,,1750,1800,,,TinEnamelType,FLMNH
+,Santa Elena Mottled,,1500,1600,,,TinEnamelType,FLMNH
+,Nopaltepec Polychrome,,1775,1900,,,TinEnamelType,FLMNH
+,Ligurian Blue on Blue,,1550,1600,,,TinEnamelType,FLMNH
+,Isabela Polychrome,,1490,1580,,,TinEnamelType,FLMNH
+,Rouen,,1740,1790,,,TinEnamelType,FLMNH
+,Orange Micaceous,,1550,1650,,,CEWType,FLMNH
+,Guadalajara Polychrome,,1650,1800,,,CEWType,FLMNH
